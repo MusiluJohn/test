@@ -1,0 +1,10 @@
+img {
+    width:130;
+    height:100;
+}
+#title{
+    font-size:200%;
+}
+#username,#password{
+    width:200px;
+}
